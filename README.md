@@ -28,7 +28,11 @@ Front-End Developer | Computer Science Student
 ---
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=samiraevangelista&bg_color=0d1117&color=f2c6a0&line=f2c6a0&point=ffffff&area=true&hide_border=true"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samiraevangelista/samiraevangelista/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samiraevangelista/samiraevangelista/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/samiraevangelista/samiraevangelista/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ![snake gif](https://github.com/samiraevangelista/samiraevangelista/blob/output/github-contribution-grid-snake.svg)
