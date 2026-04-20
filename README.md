@@ -4,7 +4,7 @@
 
 <p style="color: #6b7280;">
   <b>Front-End Developer | Computer Science Student</b><br>
-  Piracicaba, SP • 🌐 Open to international opportunities
+  🇧🇷 • 🌐 Open to international opportunities
 
 <br>
 
