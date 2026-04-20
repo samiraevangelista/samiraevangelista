@@ -4,7 +4,7 @@
 
 <p style="color: #6b7280; margin-top: 10px;">
   <b>Front-End Developer | Computer Science Student</b><br>
-  BR Brazil • 🌐 Open to international opportunities
+  BR • 🌐 Open to international opportunities
 </p>
 
 <br/>
