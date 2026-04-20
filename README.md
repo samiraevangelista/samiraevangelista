@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python&theme=light" height="30" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python&theme=dark" height="30" style="filter: grayscale(100%);" />
 
 <br/>
 
