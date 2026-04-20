@@ -6,7 +6,10 @@
   <b>Front-End Developer | Computer Science Student</b><br>
   🇧🇷 • 🌐 Open to international opportunities
 </p>
+<br>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python&theme=dark" height="30" style="filter: grayscale(20%) opacity(90%);" />
 
+<br/>
 <br>
 
 <img src="https://raw.githubusercontent.com/samiraevangelista/samiraevangelista/output/github-contribution-grid-snake-dark.svg" width="100%" />
