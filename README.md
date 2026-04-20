@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=d8b4fe&center=true&vCenter=true&width=435&lines=Hi,+I'm+Samira+👋" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=d8b4fe&center=true&vCenter=true&width=435&lines=Hi,+I'm+Samira+👋🏻" />
 
 <p style="color: #6b7280;">
   <b>Front-End Developer | Computer Science Student</b><br>
