@@ -11,7 +11,7 @@ permissions:
 contents: write
 runs-on: ubuntu-latest
 
-```
+
 steps:
   - uses: Platane/snk@v3
     with:
