@@ -5,10 +5,13 @@
 <p style="color: #6b7280;">
   <b>Front-End Developer | Computer Science Student</b><br>
   🇧🇷 • 🌐 Open to international opportunities
+</p>
 
 <br>
 
 <img src="https://raw.githubusercontent.com/samiraevangelista/samiraevangelista/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+<br>
 
 <p style="color: #6b7280; font-size: 0.8em; font-style: italic;">
   ★ Always building. Always learning.
