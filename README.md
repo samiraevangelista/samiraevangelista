@@ -7,7 +7,7 @@
   🇧🇷 • 🌐 Open to international opportunities
 </p>
 <br>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python&theme=dark" height="30" style="filter: grayscale(20%) opacity(90%);" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,unity,unreal&theme=dark" height="30" style="filter: grayscale(20%) opacity(90%);" />
 
 <br/>
 <br>
