@@ -16,11 +16,12 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: Platane/snk@v3
+     - uses: Platane/snk@v3
         with:
           github_user_name: samiraevangelista
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?color_snake=#d8b4fe&color_dots=#0d1117,#3f3f46,#71717a,#a855f7,#d8b4fe
+            # hide_legend=true remove a barra verde de legenda abaixo do gráfico
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#d8b4fe&color_dots=#0d1117,#3f3f46,#71717a,#a855f7,#d8b4fe&hide_legend=true
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
