@@ -1,10 +1,13 @@
 <div align="center">
 
-# Hi, I'm Samira 👋
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=d8b4fe&center=true&vCenter=true&width=435&lines=Hi,+I'm+Samira+👋🏻" />
 
-**Front-End Developer | Computer Science Student** <p style="color: #6b7280;">BR Brazil • 🌐 Open to international opportunities</p>
+<p style="color: #6b7280; margin-top: 10px;">
+  <b>Front-End Developer | Computer Science Student</b><br>
+  BR Brazil • 🌐 Open to international opportunities
+</p>
 
-<br>
+<br/>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python&theme=dark" height="30" style="filter: grayscale(100%);" />
 
