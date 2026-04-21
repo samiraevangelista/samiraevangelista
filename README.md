@@ -11,8 +11,14 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,unity,unreal&theme=dark" height="30" style="filter: grayscale(20%) opacity(90%);"/>
   <div/>
 
-<img src="https://raw.githubusercontent.com/samiraevangelista/samiraevangelista/output/github-contribution-grid-snake-dark.svg" width="100%" />
-<br>
+<div align="center">
+  <img 
+    src="https://raw.githubusercontent.com/samiraevangelista/samiraevangelista/output/github-contribution-grid-snake-dark.svg" 
+    alt="Snake animation"
+    style="filter: drop-shadow(0 0 8px #a855f7) drop-shadow(0 0 15px #d8b4fe);"
+  />
+</div>
+
 <p style="color: #6b7280; font-size: 0.8em; font-style: italic;">
   ★ Always building. Always learning.
 </p>
